@@ -12,14 +12,14 @@ JSoup in Java
 Goquery in Golang
 The process of web scraping typically includes the following steps:
 
-Inspecting the website: Before scraping a website, you need to understand its structure and how it's organized. This can be done by looking at the HTML or XML source code of the web pages.
+1. Inspecting the website: Before scraping a website, you need to understand its structure and how it's organized. This can be done by looking at the HTML or XML source code of the web pages.
 
-Sending a request: Once you have identified the URLs of the pages you want to scrape, you can send an HTTP request to the website's server. Depending on the library or framework you are using, this may be done with a built-in function or method.
+2. Sending a request: Once you have identified the URLs of the pages you want to scrape, you can send an HTTP request to the website's server. Depending on the library or framework you are using, this may be done with a built-in function or method.
 
-Parsing the response: Once you receive the HTML or XML source code of the web page, you need to parse it to extract the relevant data. This can be done using a library or framework that provides functions for parsing and manipulating HTML or XML.
+3. Parsing the response: Once you receive the HTML or XML source code of the web page, you need to parse it to extract the relevant data. This can be done using a library or framework that provides functions for parsing and manipulating HTML or XML.
 
-Extracting the data: After the HTML or XML source code is parsed, you can extract the relevant data using selectors or regular expressions.
+4. Extracting the data: After the HTML or XML source code is parsed, you can extract the relevant data using selectors or regular expressions.
 
-Saving the data: Finally, you can save the extracted data in a format that is useful for your purposes, such as CSV, JSON, or a database.
+5. Saving the data: Finally, you can save the extracted data in a format that is useful for your purposes, such as CSV, JSON, or a database.
 
 It's worth noting that web scraping can be against website's term
